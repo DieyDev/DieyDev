@@ -79,7 +79,7 @@ interests   : [ Backend development, microservices, football, family time ]
 * Event-driven (Kafka)
 * Background jobs (Celery + Redis)
 
-🔗 **GitHub:** https://github.com/DieyDev
+🔗 **GitHub:** https://github.com/dieydev/lms-microservices
 
 </td>
 
@@ -94,7 +94,7 @@ interests   : [ Backend development, microservices, football, family time ]
 * Order & image management
 * Dashboard (Chart.js)
 
-🔗 **GitHub:** https://github.com/DieyDev
+🔗 **GitHub:** https://github.com/dieydev/DuAnMiCayy
 
 </td>
 </tr>
