@@ -22,7 +22,7 @@ location    : Ho Chi Minh City, Vietnam 🇻🇳
 education   : Software Engineering — Thu Dau Mot University
 target      : Backend / Fullstack Developer
 started     : Final-year student — expected graduation June 2027
-interests   : [ Backend development, microservices, football, family time ]
+interests   : [ Backend development, football, family time ]
 ```
 
 ---
