@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/DieyDev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Fullstack+Developer+Intern;Backend+Enthusiast+%7C+.NET+8+%2B+Microservices;Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Backend+Developer+Intern;Focusing+on+.NET+8+%2B+Microservices;Kafka+%7C+Docker+%7C+Redis+%7C+SQL;Building+Scalable+LMS+Solutions" />
 </a>
 
 <br/>
